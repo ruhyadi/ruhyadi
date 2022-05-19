@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Didi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=NFTs+Right+Clicker&center=true&width=500&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=NFTs+Right+Clicker&center=true&width=500&height=30"></a>
 </p>
 
 <hr/>
@@ -18,23 +18,16 @@
 <br>
 
 ## 🔥 Coffe Superpower
+<br/>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhyadi&theme=dracula" alt="ruhyadi"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhyadi&theme=dracula" alt="ruhyadi"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhyadi&show_icons=true&theme=dracula&locale=en" alt="ruhyadi"/>
 </p>
 
 <br/>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhyadi&show_icons=true&theme=dracula&locale=en" alt="ruhyadi"/>
-</p>
-
-<br/>
-
-<p align="center">
+<!-- <p align="center">
 <img alt="ruhyadi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ruhyadi&custom_title=Didi's%20Contribution%20Graph&theme=dracula" />
-</p>
-
-<br/>
+</p> -->
 
 ## 🙋‍♀️ Let's Connect
 
