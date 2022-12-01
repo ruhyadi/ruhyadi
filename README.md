@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [YOLO3D](https://github.com/ruhyadi/yolo3d) and [Semi-Automatic-Labelling](https://github.com/ruhyadi/Semi-Automatic-Labelling)
 - 🌱 I’m currently learning [MLOps with DVC](https://ruhyadi.github.io/docs/mlops/dataset-versioning/)
-- 📫 How to reach me: ruhyadi.dr@gmail.com
+- 📫 How to reach me: x
 
 <br>
 
