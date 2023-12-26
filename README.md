@@ -6,13 +6,15 @@
 
 <hr/>
 
-<h4 align="center">Final year Engineering Physics student at UGM. Enthusiastic in Computer Vision and MLOps, and many things.</h4>
+<!-- <h4 align="center">Final year Engineering Physics student at UGM. Enthusiastic in Computer Vision and MLOps, and many things.</h4> -->
+
+<h4 align="center">Computer Vision and Robotics Engineer at Widya Robotics<h4>
 
 <br>
 
-- 🔭 I’m currently working on [YOLO3D](https://github.com/ruhyadi/yolo3d) and [Semi-Automatic-Labelling](https://github.com/ruhyadi/Semi-Automatic-Labelling)
-- 🌱 I’m currently learning [MLOps with DVC](https://ruhyadi.github.io/docs/mlops/dataset-versioning/)
-- 📫 How to reach me: x
+- 🔭 I’m currently working on [YOLO3D](https://github.com/ruhyadi/yolo3d).
+- 🌱 I’m currently learning ROS2 and Generative AI.
+- 👯 I’m looking to collaborate on Computer Vision and Robotics projects.
 
 <br>
 
@@ -39,4 +41,4 @@
 
 <hr/>
 
-* Last Edited on: 2022-05-19
+* Last Edited on: 2023-12-23
